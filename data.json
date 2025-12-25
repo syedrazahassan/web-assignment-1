@@ -1,0 +1,43 @@
+{
+  "assignment": {
+    "title": "W.E Theory Assignment #1",
+    "students": ["23-SE-76", "23-SE-88"],
+    "university": "University Of Engineering and Technology Taxila",
+    "date": "Web Engineering Assignment"
+  },
+  "question": "Select three different websites from one category and give a feature comparison of these three websites. Feature comparison should be related to functionality. A category can be like, educational, social networking, online shopping, online selling.",
+  "category": "Online Shopping Platforms",
+  "websites": [
+    {
+      "name": "Amazon",
+      "primary_purchase_model": "Fixed Price (Buy Box). The default is a simple 'Add to Cart' and 'Buy Now' for a set price, often sold by Amazon itself or a third-party seller.",
+      "seller_base_inventory": "Mass-market retailers and individuals. A vast mix of everything from major brands (via Amazon or their official stores) to small businesses and individual sellers using Fulfillment by Amazon (FBA).",
+      "search_discovery": "Algorithm-driven (A9). Highly personalized based on your browsing/purchase history. Strong filters for brand, price, Prime eligibility, and customer ratings.",
+      "checkout_fulfillment": "Unified Cart & Advanced Fulfillment. You can add items from different sellers into one cart and check out once. Amazon's key feature is FBA/Prime, offering fast, often free, shipping from Amazon's warehouses.",
+      "key_unique_feature": "Amazon Prime Ecosystem. Functionality is deeply integrated with Prime benefits: fast shipping, Prime Video, Prime Gaming, etc. Subscribe & Save is another unique function for recurring deliveries."
+    },
+    {
+      "name": "eBay",
+      "primary_purchase_model": "Auction & Fixed Price. A core functionality is the ability to bid on items in a timed auction. 'Buy It Now' is also a common fixed-price option.",
+      "seller_base_inventory": "Individuals and businesses. A huge range from people selling single used items from their home to large liquidators and retailers selling new products in bulk.",
+      "search_discovery": "Keyword and filter-heavy. Powerful filters are essential due to the variety of conditions (new, used, refurbished) and sellers. 'Best Match' algorithm considers price, shipping, and seller history.",
+      "checkout_fulfillment": "Seller-Managed Checkout. You often check out per seller. Shipping methods, costs, and speeds are set by each individual seller. No unified cart across different sellers.",
+      "key_unique_feature": "The Bidding/Auction System. The ability to place a bid, set a maximum bid, and be notified if you're outbid is a core, defining function not found on the other two platforms."
+    },
+    {
+      "name": "Etsy",
+      "primary_purchase_model": "Exclusively Fixed Price. All items are listed at a set price for direct purchase. The focus is on handmade, vintage, and craft supplies.",
+      "seller_base_inventory": "Individual artists and small studios. The platform is restricted to sellers offering handmade goods, vintage items (20+ years old), and craft supplies.",
+      "search_discovery": "Community and aesthetic-focused. Search is geared towards categories like jewelry, home decor, and wedding items. Strong emphasis on visual search and filtering by item attributes (color, occasion, theme).",
+      "checkout_fulfillment": "Seller-Managed Checkout. Similar to eBay, you purchase directly from one shop/seller at a time. Shipping is handled individually by each artist/seller.",
+      "key_unique_feature": "Handmade/Vintage Marketplace Focus. Exclusively for handmade items, vintage goods, and craft supplies with strong community features for artists and buyers."
+    }
+  ],
+  "features": [
+    "Primary Purchase Model",
+    "Seller Base & Inventory",
+    "Search & Discovery",
+    "Checkout & Fulfillment",
+    "Key Unique Functional Feature"
+  ]
+}
